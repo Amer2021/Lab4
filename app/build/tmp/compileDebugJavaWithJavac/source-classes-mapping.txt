@@ -1,0 +1,18 @@
+com/cst2355Lab4/ChatAdapter.java
+ com.cst2355Lab4.ChatAdapter
+com/cst2355Lab4/Message.java
+ com.cst2355Lab4.Message
+com/cst2355Lab4/ProfileActivity.java
+ com.cst2355Lab4.ProfileActivity
+ com.cst2355Lab4.ProfileActivity$1
+com/cst2355Lab4/ChatRoomActivity.java
+ com.cst2355Lab4.ChatRoomActivity
+ com.cst2355Lab4.ChatRoomActivity$1
+ com.cst2355Lab4.ChatRoomActivity$2
+ com.cst2355Lab4.ChatRoomActivity$3
+ com.cst2355Lab4.ChatRoomActivity$3$1
+ com.cst2355Lab4.ChatRoomActivity$3$2
+com/cst2355Lab4/MainActivity.java
+ com.cst2355Lab4.MainActivity
+com/cst2355Lab4/BuildConfig.java
+ com.cst2355Lab4.BuildConfig
